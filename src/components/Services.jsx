@@ -1,28 +1,28 @@
 import React from 'react'
-// import flight from '../assets/flight.png'
-// import hotel from '../assets/concierge.png'
-// import concierge from '../assets/concierge.png'
-// import beach from '../assets/beach.png'
+import flight from '../assets/flight.png'
+import hotel from '../assets/hotel.png'
+import concierge from '../assets/concierge.png'
+import beach from '../assets/beach.png'
 
 // arr of services
 const services = [
     {
-        icon: '/src/assets/flight.png',
+        icon: flight,
         title: 'Flight Services',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, perferendis.'
     },
     {
-        icon: '/src/assets/hotel.png',
+        icon: hotel,
         title: 'Flight Services',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, perferendis.'
     },
     {
-        icon: '/src/assets/beach.png',
+        icon: beach,
         title: 'Flight Services',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, perferendis.'
     },
     {
-        icon: '/src/assets/concierge.png',
+        icon: concierge,
         title: 'Flight Services',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, perferendis.'
     },

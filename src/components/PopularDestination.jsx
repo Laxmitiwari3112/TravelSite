@@ -1,31 +1,31 @@
-import React from 'react'
-import img1 from '../assets/img1.jpg'
-import img2 from '../assets/img2.jpg'
-import img3 from '../assets/img3.jpg'
+import React from 'react';
+import img1 from '../assets/img1.jpg';
+import img2 from '../assets/img2.jpg';
+import img3 from '../assets/img3.jpg';
 
 
 // arr popularDestinations
 const destinations = [
     {
-        image: `url(${img1})`,
+        image: img1,
         title: 'paris,france',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quaerat expedita doloremque voluptas minima fugiat dolorum repellat voluptatem exercitationem minus!'
     },
 
     {
-        image: `url(${img2})`,
+        image: img2,
         title: 'paris,france',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quaerat expedita doloremque voluptas minima fugiat dolorum repellat voluptatem exercitationem minus!'
     },
 
     {
-        image: `url(${img3})`,
+        image: img3,
         title: 'paris,france',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quaerat expedita doloremque voluptas minima fugiat dolorum repellat voluptatem exercitationem minus!'
     },
 
     {
-        image: `url(${img1})`,
+        image: img1,
         title: 'paris,france',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quaerat expedita doloremque voluptas minima fugiat dolorum repellat voluptatem exercitationem minus!'
     },
