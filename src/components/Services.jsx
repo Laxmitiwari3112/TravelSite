@@ -1,4 +1,8 @@
 import React from 'react'
+// import flight from '../assets/flight.png'
+// import hotel from '../assets/concierge.png'
+// import concierge from '../assets/concierge.png'
+// import beach from '../assets/beach.png'
 
 // arr of services
 const services = [

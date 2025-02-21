@@ -2,12 +2,13 @@ import React from 'react'
 import PopularDestination from '../components/PopularDestination'
 import Services from '../components/Services'
 import Gallery from '../components/Gallery'
+import img4 from '../assets/img4.jpeg'
 
 const Home = () => {
   return (
     <>
       <div className='relative h-screen bg-cover bg-center brightness-80'
-        style={{ backgroundImage: "url('/src/assets/img4.jpeg')" }}>
+        style={{ backgroundImage: `url(${img4})` }}>
         <div className="absolute inset-0 flex flex-col items-center justify-center">
           {/* <div className="flex"> */}
           {/* <h1 className='text-white text-3xl italic font-bold'>HOME</h1> */}
