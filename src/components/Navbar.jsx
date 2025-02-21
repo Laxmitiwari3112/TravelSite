@@ -10,9 +10,9 @@ const Navbar = () => {
             <div className='flex space-x-2 md:space-x-4'>
                 <Link to="/" className='hover:underline hover:opacity-70 '>Home</Link>
                 <Link to="/" className='hover:underline hover:opacity-70 '>Gallery</Link>
-                <Link to="/contact" className='hover:underline hover:opacity-70'>Contact_Us</Link>
-                <Link to="/aboutUs" className='hover:underline hover:opacity-70 ' >About_Us</Link>
-                <Link to="/login" className='border px-2 rounded-2xl hover:bg-blue-500'>Login</Link>
+                <Link to="/" className='hover:underline hover:opacity-70'>Contact_Us</Link>
+                <Link to="/" className='hover:underline hover:opacity-70 ' >About_Us</Link>
+                <Link to="/" className='border px-2 rounded-2xl hover:bg-blue-500'>Login</Link>
             </div>
         </div>
     </nav>
