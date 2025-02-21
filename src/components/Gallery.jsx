@@ -1,30 +1,29 @@
 import React from 'react'
+import img2 from '../assets/img2.jpg'
 
 // arr Gallery of destinations
 const gallery = [
     {
-        image: '/src/assets/img2.jpg',
+        image: img2,
         title: 'paris,france',
     },
     {
-        image: '/src/assets/img2.jpg',
+        image: img2,
         title: 'paris,france',
     },
     {
-        image: '/src/assets/img2.jpg',
+        image: img2,
         title: 'paris,france',
     },
     {
-        image: '/src/assets/img2.jpg',
+        image: img2,
         title: 'paris,france',
     },
     {
-        image: '/src/assets/img2.jpg',
+        image: img2,
         title: 'paris,france',
     },
-
     
-
 ]
 
 
