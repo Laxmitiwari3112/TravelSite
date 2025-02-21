@@ -7,25 +7,25 @@ import img3 from '../assets/img3.jpg'
 // arr popularDestinations
 const destinations = [
     {
-        image: '/src/assets/img1.jpg',
+        image: `url(${img1})`,
         title: 'paris,france',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quaerat expedita doloremque voluptas minima fugiat dolorum repellat voluptatem exercitationem minus!'
     },
 
     {
-        image: '/src/assets/img2.jpg',
+        image: `url(${img2})`,
         title: 'paris,france',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quaerat expedita doloremque voluptas minima fugiat dolorum repellat voluptatem exercitationem minus!'
     },
 
     {
-        image: '/src/assets/img3.jpg',
+        image: `url(${img3})`,
         title: 'paris,france',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quaerat expedita doloremque voluptas minima fugiat dolorum repellat voluptatem exercitationem minus!'
     },
 
     {
-        image: '/src/assets/img1.jpg',
+        image: `url(${img1})`,
         title: 'paris,france',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quaerat expedita doloremque voluptas minima fugiat dolorum repellat voluptatem exercitationem minus!'
     },
