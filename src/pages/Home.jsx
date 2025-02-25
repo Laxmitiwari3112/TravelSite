@@ -3,6 +3,7 @@ import PopularDestination from '../components/PopularDestination'
 import Services from '../components/Services'
 import Gallery from '../components/Gallery'
 import img4 from '../assets/img4.jpeg'
+// import Footer from '../components/Footer'
 
 const Home = () => {
   return (
@@ -21,6 +22,7 @@ const Home = () => {
       <PopularDestination/>
       <Services/>
       <Gallery/>
+      {/* <Footer/> */}
     </>
   )
 }
