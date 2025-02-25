@@ -8,7 +8,7 @@ import img4 from '../assets/img4.jpeg'
 const Home = () => {
   return (
     <>
-      <div className='relative h-screen bg-cover bg-center brightness-80'
+      <div className='relative h-screen bg-cover bg-center brightness-80 xs:h-90 md:h-97'
         style={{ backgroundImage: `url(${img4})` }}>
         <div className="absolute inset-0 flex flex-col items-center justify-center">
           {/* <div className="flex"> */}

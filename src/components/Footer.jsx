@@ -13,7 +13,7 @@ const Footer = () => {
 
       {/* --------AboutUs-------- */}
 
-      <div className="container border text-white p-8 grid grid-cols-2 md:grid-cols-3 ">
+      <div className="container border p-8 grid grid-cols-2 md:grid-cols-3 ">
         <div className="p-2 m-2">
           <h5 className="py-3 font-semibold">Legal Policy</h5>
           <div className="grid grid-1">
@@ -63,7 +63,7 @@ const Footer = () => {
 
       {/* ---------CopyRight-------- */}
 
-      <div className="mt-6 text-white flex justify-center">
+      <div className="mt-6 flex justify-center">
         <div className="flex justify-center items-center">
           <FaCopyright />
         </div>
