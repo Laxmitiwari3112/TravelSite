@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <div className="bg-blue-950 text-white p-12 justify-center items-center">
+    <div className="bg-blue-950 text-white p-12 flex justify-center items-center">
 
       {/* --------AboutUs-------- */}
 
