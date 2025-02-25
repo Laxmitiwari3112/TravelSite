@@ -9,10 +9,10 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <div className="bg-blue-950 text-white p-12">
+    <div className="bg-blue-950 text-white p-12 justify-center items-center">
 
       {/* --------AboutUs-------- */}
-      
+
       <div className="container border text-white p-8 grid grid-cols-2 md:grid-cols-3 ">
         <div className="p-2 m-2">
           <h5 className="py-3 font-semibold">Legal Policy</h5>
